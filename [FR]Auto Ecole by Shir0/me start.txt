@@ -1,0 +1,21 @@
+-----------------By Shir0
+-----------------Chaîne youtube : https://www.youtube.com/channel/UCroLkFVstqfxT0TW7WMyxhQ
+-----------------Discord : Shir0 彡#4515
+
+#------[Véhicules import]------#
+start rs4avant
+start yzfsm
+
+#------[MAPPING]------#
+start autoscool
+
+#------[ESX]------#
+start esx_autoecolebyshir0
+
+Mettre les véhicules modées qui se trouve dans le dossier [véhicules import] dans votre dossier ou vous mettez les véhicules modées,
+
+Mettre mon script dans votre dossier ESX 
+
+Puis enfin metrre le mapping qui se trouvera le dossier [MAPPING] de mon script dans votre dossier mapping il s'apellera autoscool 
+
+Après starter les et le tour est jouer !
